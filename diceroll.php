@@ -11,7 +11,7 @@
    <div><br><input type="submit" value="Let's Play!"></div><br>
 </form>
 
-
+#This is a game that allows the player to pick a number 1 through 6 and see how many virtual rolls it takes to get it.
 <?php
 
 $sixrolled = false;
